@@ -2,7 +2,7 @@
   "compilerOptions": {
     "outDir": "./dist", // onde vai gerar o código em Javascript
     "module": "commonjs", // import/export  gerar o modulo commonjs require
-    "target": "es2018", // qual versão do ecma ele vai gerar
+    "target": "es2019", // qual versão do ecma ele vai gerar
     "esModuleInterop": true, //fazer conversão dos módulos que usam commonjs
     "allowJs": true
   }
