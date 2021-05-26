@@ -5,6 +5,7 @@
     "target": "es2019", // qual versão do ecma ele vai gerar
     "esModuleInterop": true, //fazer conversão dos módulos que usam commonjs
     "allowJs": true,
-    "strictNullChecks": true
+    "strictNullChecks": false,
+    // "noImplicitReturns": false
   }
 }
